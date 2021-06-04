@@ -7,7 +7,6 @@ I wouldn't say I love coding - I love my parents, my sister and niece - but I re
 I'm currently expanding and building my knowledge of web related languages, tools, and frameworks.
 
 To learn a little more about me, check out my [website](https://kyleclarkson.ca). 
-![image](https://user-images.githubusercontent.com/23508842/120868811-b67f1b80-c549-11eb-9e00-6b1347c40cb2.png)
 
 <!--
 **kylepclarkson/kylepclarkson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

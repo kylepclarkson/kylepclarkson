@@ -1,13 +1,12 @@
 ## Hi, boozhoo
 
-I'm Kyle and I'm a recent Master's graduate looking for work as a developer in Vancouver, BC, Canada. I attended the University of British Columbia - and Brandon University before that - where I studied mathematics and computer science.
 
-I wouldn't say I love coding - I love my parents, my sister and niece - but I really enjoy the process of problem solving! While the experience can be frustrating at time, the journey to a fully realized project has its own rewards - there's always to problems to solve!
+I'm Kyle - a software engineer located in Vancouver, Canada. 
+Currently I'm an engineer working within the Amazon Payment Products organization, supporting US PLCC servicing and US CBCC acquisitions. 
 
-I'm currently expanding and building my knowledge of web related languages, tools, and frameworks.
+During my free time I'm usually working on personal software projects or spending time with my new duck toller puppy 🐕‍🦺
 
 To learn a little more about me, check out my [website](https://kyleclarkson.ca). 
-
 <!--
 **kylepclarkson/kylepclarkson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
